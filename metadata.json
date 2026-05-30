@@ -1,0 +1,6 @@
+{
+  "name": "ScaleWithPC",
+  "description": "ScaleWithPC is an AI-powered performance marketing and business growth agency helping brands build systems, revenue, and scale profitably.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
